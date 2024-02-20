@@ -1,0 +1,45 @@
+body{
+    background-color: #EBFEFF;
+}
+
+.navbar{
+    border-bottom: 1px solid black;
+}
+
+
+#he{
+    background-color: #EBFEFF;
+}
+
+#pr{
+    background-color: #457B9D;
+    color: white;
+}
+    
+#pa{
+    background-color: rgb(183, 222, 233);
+    color: #457B9D;
+}
+
+#rino {
+    width: 100%;
+    height: auto;
+    top: 84px;
+    border-radius: 40px;
+    width: 309px;
+    background: #457B9D;
+}
+    
+    
+    
+p{
+    color: #457B9D;
+}
+    
+#pu{
+    color: #457B9D;
+}
+    
+.h3{
+    text-align: center;
+}
